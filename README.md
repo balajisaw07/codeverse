@@ -48,8 +48,10 @@ CodeFolio is a unified platform that consolidates coding profiles and performanc
 **Live Site:** https://codefolio-platform.vercel.app/
 
 **TEST WEBSITE**
-**EMAIL** : balajisaw07@gmail.com
-**password** : Balaji@123
+
+**EMAIL** : balajisaw07@gmail.com   
+
+**password** : Balaji@123   
 **CodeFolio** is a unified platform that **consolidates coding profiles and performance metrics** from multiple popular competitive programming and developer platforms.
 
 By aggregating data from **CodeChef, CodeForces, LeetCode, GeeksforGeeks, and GitHub**, CodeFolio provides recruiters and interviewers with a **comprehensive dashboard** to evaluate a candidate's **coding skills and project contributions**.
