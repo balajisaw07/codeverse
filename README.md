@@ -21,17 +21,7 @@ CodeFolio is a unified platform that consolidates coding profiles and performanc
 <br />
 
 
-<!-- About the Project -->
-**About the Project**
 
-**YouTube Demo:** https://www.youtube.com/watch?v=QD-UgjqlHJo  
-**Live Site:** https://codefolio-platform.vercel.app/
-
-**CodeFolio** is a unified platform that **consolidates coding profiles and performance metrics** from multiple popular competitive programming and developer platforms.
-
-By aggregating data from **CodeChef, CodeForces, LeetCode, GeeksforGeeks, and GitHub**, CodeFolio provides recruiters and interviewers with a **comprehensive dashboard** to evaluate a candidate's **coding skills and project contributions**.
-
-The platform **normalizes diverse data**—such as **contest ratings, problems solved, and project contributions**—and presents it through **intuitive analytics** and **real-time updates**, streamlining the candidate evaluation process and enabling **data-driven hiring decisions**.
 
 
 
@@ -54,6 +44,14 @@ The platform **normalizes diverse data**—such as **contest ratings, problems s
 <!-- About the Project -->
 ## :star2: About the Project
 
+**YouTube Demo:** https://www.youtube.com/watch?v=QD-UgjqlHJo  
+**Live Site:** https://codefolio-platform.vercel.app/
+
+**CodeFolio** is a unified platform that **consolidates coding profiles and performance metrics** from multiple popular competitive programming and developer platforms.
+
+By aggregating data from **CodeChef, CodeForces, LeetCode, GeeksforGeeks, and GitHub**, CodeFolio provides recruiters and interviewers with a **comprehensive dashboard** to evaluate a candidate's **coding skills and project contributions**.
+
+The platform **normalizes diverse data**—such as **contest ratings, problems solved, and project contributions**—and presents it through **intuitive analytics** and **real-time updates**, streamlining the candidate evaluation process and enabling **data-driven hiring decisions**.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
