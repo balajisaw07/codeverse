@@ -19,10 +19,10 @@ CodeFolio is a unified platform that consolidates coding profiles and performanc
 </div>
 
 <br />
-## About the Project
+<!-- About the Project -->
 
-YouTube Demo: https://www.youtube.com/watch?v=QD-UgjqlHJo  
-Live Site: https://codefolio-platform.vercel.app/
+<!--YouTube Demo -->: https://www.youtube.com/watch?v=QD-UgjqlHJo  
+<!--Live Site -->: https://codefolio-platform.vercel.app/
 
 CodeFolio is a unified platform that consolidates coding profiles and performance metrics from multiple popular competitive programming and developer platforms.
 
